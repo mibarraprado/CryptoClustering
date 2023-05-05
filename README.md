@@ -1,2 +1,2 @@
 # CryptoClustering
-This uses Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
+This code uses Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
